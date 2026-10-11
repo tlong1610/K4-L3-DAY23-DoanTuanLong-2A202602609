@@ -1,0 +1,3 @@
+# Script chay trong Linux (container) -> bat buoc LF, ke ca khi core.autocrlf=true
+*.sh      text eol=lf
+Makefile  text eol=lf
